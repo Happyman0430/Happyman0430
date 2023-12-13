@@ -4,7 +4,7 @@
 - 💞️ I have expertise in Ecommerce, PHP,Python, MERN, VUE.js,Angular, and so on 
 - 📫 How to reach me ...
 
-
+THIS IS SOME OF PROJECT.
 ![shopify2](https://github.com/Happyman0430/Happyman0430/assets/153720975/4ccbfaea-8e6e-4331-87e2-3b01cda9bd28)
 ![shopify](https://github.com/Happyman0430/Happyman0430/assets/153720975/aa4526bd-6023-44d8-8f6e-b68ea5a416fb)
 ![5](https://github.com/Happyman0430/Happyman0430/assets/153720975/df2acd47-b855-467c-9037-fabc81d93e17)
