@@ -127,7 +127,7 @@
   <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Guru-007&theme=github">
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Guru-007&layout=compact&theme=onedark" />
 </div>
-- 
+
 ![7](https://github.com/Happyman0430/Happyman0430/assets/153720975/1e0cbbe5-e074-4984-97d3-c3f64a2d8678)
 THIS IS SOME OF PROJECT.
 ![shopify2](https://github.com/Happyman0430/Happyman0430/assets/153720975/4ccbfaea-8e6e-4331-87e2-3b01cda9bd28)
