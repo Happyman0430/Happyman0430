@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Happyman0430
-- 👀 I’m interested in Webdvelopment
-- 🌱 I’m currently learning new technology
-- 💞️ I have expertise in Ecommerce, PHP,Python, MERN, VUE.js, Angular, and OpenCV, Numpy
+- 👋 Hi, I’m EasyGoing.
+- 👀 I’m interested in Webdvelopment.
+.- 🌱 I’m currently learning new technology.
+- 💞️ I have expertise in Ecommerce, PHP,Python, MERN, VUE.js, Angular, and OpenCV, Numpy.
 -   ✅Data processing, data analysis, data modeling, data mining, data scraping.
 -   ✅Web scraping using Python.
 -   ✅shopify, webflow, wordpress, magento, woocommerce.
